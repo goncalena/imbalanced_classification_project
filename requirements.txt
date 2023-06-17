@@ -9,3 +9,6 @@ shap == 0.41.0
 streamlit==1.22.0
 xgboost==1.7.4
 plotly== 5.9.0
+streamlit-shap==1.0.2
+json5==0.9.6
+joblib==1.2.0
